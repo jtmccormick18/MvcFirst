@@ -1,0 +1,2 @@
+Nuget same as NPM?
+ - .cjsproj === package.json ? 
